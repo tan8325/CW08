@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tan8325/CW08/static/css/main.0e6bd7af.css",
+    "main.js": "/tan8325/CW08/static/js/main.76f950e0.js",
+    "static/js/787.38f16daf.chunk.js": "/tan8325/CW08/static/js/787.38f16daf.chunk.js",
+    "index.html": "/tan8325/CW08/index.html",
+    "main.0e6bd7af.css.map": "/tan8325/CW08/static/css/main.0e6bd7af.css.map",
+    "main.76f950e0.js.map": "/tan8325/CW08/static/js/main.76f950e0.js.map",
+    "787.38f16daf.chunk.js.map": "/tan8325/CW08/static/js/787.38f16daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e6bd7af.css",
+    "static/js/main.76f950e0.js"
+  ]
+}
